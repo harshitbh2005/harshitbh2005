@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Learning to build Scaleable full stack applications with SpringBoot<br>backend and React.js frontend framework with Integration of database services<br>like PostgreSQL and MongoDB along with Cloud service AWS!<br><br>🛸Solving DSA on Leetcode through JAVA with its Github Repository<br>of Leetcode questions i solve.
+🚀Learning to build Scaleable full stack applications with SpringBoot<br>backend and React.js frontend framework with Integration of database services<br>like PostgreSQL and MongoDB along with Cloud service AWS!<br><br>🛸Solving DSA on Leetcode through JAVA and maintaining Github Repository<br>of questions I solve.
 
 
 
