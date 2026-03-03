@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀I create Scaleable full stack web-applications with SpringBoot<br>backend and React.js frontend framework with Integration of database services<br>like PostgreSQL and MongoDB along with Cloud service AWS!<br><br>🛸Maintaining a Github Repository<br>of all DSA questions I solve.
+🚀I create Scaleable full stack web-applications with SpringBoot<br>backend and React.js frontend framework with Integration of database services<br>like PostgreSQL and MongoDB along with Cloud service AWS!<br><br>🛸Maintaining a Github Repository<br>of all DSA questions I solve. 
 
 
 
